@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.10.8.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -42,8 +42,8 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "3efc0129-78fa-44b3-87e6-4f838edd8f2c",
+        "editingStatus": "Publishable",
+        "testCaseId": "1bf74869-5016-4785-99ee-cc67b67a2116",
         "fileName": "Test_FavouriteSinger.xaml"
       }
     ],
